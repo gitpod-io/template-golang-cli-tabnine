@@ -1,6 +1,8 @@
-# A Golang CLI template on Gitpod
+# A Golang CLI template on Gitpod, with Tabnine enabled
 
 This is a [Golang CLI](https://golang.org) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+
+Please note, this project has [Tabnine](https://www.tabnine.com/)'s AI-assisted code completion configured.
 
 ## Next Steps
 
